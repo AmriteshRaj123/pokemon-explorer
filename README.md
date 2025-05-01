@@ -6,7 +6,8 @@ Welcome to **Pokémon Explorer** — a vibrant and responsive React web app that
 
 ## ✨ Demo
 
-![Pokémon Explorer Screenshot](./screenshot.png)
+<img width="1280" alt="Screenshot 2025-05-01 at 9 20 19 PM" src="https://github.com/user-attachments/assets/6e629b2b-28f2-4ebf-b07f-ac28a9518f63" />
+
 
 ---
 
@@ -93,6 +94,7 @@ Flying	#91A3B0
 # 👨‍💻 Author
 Amritesh Raj
 🎓 B.Tech CSE @ Polaris School of Technology
+
 🌐 LinkedIn:- https://www.linkedin.com/in/amriteshrajofficial/  
 💻 GitHub:- https://github.com/AmriteshRaj123/pokemon-explorer
 
