@@ -46,7 +46,7 @@ pokemon-explorer/ ├── public/ │ └── index.html ├── src/ │ 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/pokemon-explorer.git
+git clone https://github.com/AmriteshRaj123/pokemon-explorer
 cd pokemon-explorer
 
 
